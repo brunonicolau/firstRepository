@@ -1,5 +1,5 @@
 # First Repository
 
-![./github-logo.png](Logo GitHub)
+![Logo GitHub](./github-logo.png)
 
 My first repository to learn Git and Github.
